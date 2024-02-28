@@ -1,1 +1,2 @@
-Hello word
+My first git commit
+
